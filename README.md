@@ -12,7 +12,7 @@
    * High Sierra
    * Mojave、Catalina
    * Big Sur
-2. 使用的时候要更换**三码**
+2. 使用的时候要请更换**三码**
 
 ## 电脑配置
 
